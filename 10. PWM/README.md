@@ -3,3 +3,4 @@
 그리고 현재 사용할 timer의 경우 channel을 4개 까지 설정할 수 있는데, 이는 duty cycle을 한 scale안에 4개까지 설정할 수 있다고 보면 된다.
 따라서 그 경우 Counter Period를 조절하며 duty cycle을 조절할 수 있는 것이다.
 
+https://stm32f4-discovery.net/2014/05/stm32f4-stm32f429-discovery-pwm-tutorial/  => timer관련 자료들
